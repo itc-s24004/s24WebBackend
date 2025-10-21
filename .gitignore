@@ -1,0 +1,57 @@
+# ex-gen-app
+ex-gen-app/tmp
+ex-gen-app/out-tsc
+
+ex-gen-app/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+ex-gen-app/.pnp
+.pnp.js
+
+.vscode/*
+ex-gen-app/dist/
+
+
+
+
+
+# mini_board
+mini_board/tmp
+mini_board/out-tsc
+
+mini_board/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+mini_board/.pnp
+.pnp.js
+
+.vscode/*
+
+
+
+
+
+# node-app
+node-app/tmp
+node-app/out-tsc
+
+node-app/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node-app/.pnp
+.pnp.js
+
+.vscode/*
+
+
+.DS_Store
+
+
+
+# intellij プロジェクト設定
+.idea/**/workspace.xml
+.idea/**/statistics.xml
+.idea/**/tasks.xml
